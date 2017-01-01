@@ -3,7 +3,6 @@ title: "Reading list"
 output:
   github_document:
     html_preview: no
-  html_notebook: null
 ---
 
 ```{r import_packages, message=FALSE, warning=FALSE, include=FALSE}
