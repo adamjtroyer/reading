@@ -11,6 +11,12 @@ library(tidyverse)
 
 ```{r reading_list, message=FALSE, warning=FALSE}
 reading_list <- read_delim('reading-list.txt', delim = ",")
-reading_list
+reading_list %>% mutate(year = lubridate::year(date_read)) %>% group_by(year) %>% 
+  summarise(ct = n(), avg_pages = mean(pages))
+reading_list %>% mutate(year = lubridate::year(date_read)) %>% group_by(year, format) %>% 
+  summarise(ct = n(), avg_pages = mean(pages))
+reading_list %>% mutate(year = lubridate::year(date_read)) %>% group_by(year, genre) %>% 
+  summarise(ct = n(), avg_pages = mean(pages))
+
 ```
 
