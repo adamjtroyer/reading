@@ -9,7 +9,7 @@ output:
 library(tidyverse)
 ```
 
-```{r, message=FALSE, warning=FALSE}
+```{r reading_list, message=FALSE, warning=FALSE}
 reading_list <- read_delim('reading-list.txt', delim = ",")
 reading_list
 ```
