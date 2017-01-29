@@ -56,3 +56,4 @@
 55,"Jayber Crow","Wendell Berry",390,2001,2017-01-08,"audio","fiction"
 56,"Shoe Dog","Phil Knight",400,2016,2017-01-15,"audio","biography"
 57,"How to Win Friends and Influence People","Dale Carnegie",291,1936,2017-01-27,"ebook","business"
+58,"Essentialism: The Disciplined Pursuit of Less","Greg McKeown",274,2014,2017-01-10,"ebook","business"
