@@ -28,5 +28,5 @@ import_quotes <- function(file_name, reading_list) {
   
 }
 
-unlink('reading-notes/data/book-notes.txt')
+# unlink('reading-notes/data/book-notes.txt')
 quotes <- purrr::map_df(quote_files, import_quotes, reading_list)
