@@ -64,3 +64,13 @@
 63,"Hillbilly Elegy: A Memoir of a Family and Culture in Crisis","J.D. Vance",273,2016,2017-03-15,"audio","other"
 64,"The Undoing Project: A Friendship That Changed Our Minds","Michael Lewis",369,2016,2017-03-15,"audio","business"
 65,"The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World","Brad Stone",333,2017,2017-03-25,"audio","business"
+66,"Disrupt Yourself: Putting the Power of Disruptive Innovation to Work","Whitney L. Johnson",208,2016,2017-05-11,"ebook","business"
+67,"12 Ways Your Phone Is Changing You","Tony Reinke",226,2017,2017-06-10,"ebook","theology"
+68,"How Google Works","Eric Schmidt and Jonathan Rosenberg",303,2014,2017-07-02,"ebook","business"
+69,"The Devil in the White City: A Saga of Magic and Murder at the Fair that Changed America","Erik Larson",447,2004,2017-07-01,"audio","history"
+70,"The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success","William N. Thorndike",274,2012,2017-07-06,"ebook","business"
+71,"The Firm: The Story of McKinsey and Its Secret Influence on American Business","Duff McDonald",401,2013,2017-07-14,"audio","business"
+72,"Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy","Cathy O'Neil",274,2016,2017-08-13,"ebook","business"
+
+
+
