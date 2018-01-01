@@ -71,6 +71,15 @@
 70,"The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success","William N. Thorndike",274,2012,2017-07-06,"ebook","business"
 71,"The Firm: The Story of McKinsey and Its Secret Influence on American Business","Duff McDonald",401,2013,2017-07-14,"audio","business"
 72,"Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy","Cathy O'Neil",274,2016,2017-08-13,"ebook","business"
-
-
+73,"Alexander Hamilton”,“Ron Chernow",827,2005,2017-08-15,"audio","biography"
+74,"Blog, Inc.: Blogging for Passion, Profit, and to Create Community”,“Joy Deangdeelert Cho",177,2012,2017-09-15,"ebook","other"
+75,"The Third Wave: An Entrepreneur's Vision of the Future”,”Steve Case",273,2016,2017-09-25,"ebook","business"
+76,"And Then There Were None","Agatha Christie",257,2009,2017-10-01,"ebook","fiction"
+77,"Finishing Our Course with Joy: Guidance from God for Engaging with Our Aging","J.I. Packer",112,2014,2017-10-15
+78,"The Man Who Knew: The Life and Times of Alan Greenspan","Sebastian Mallaby",795,2016,2017-10-01,"audio","biography"
+79,"The First Major","John Feinstein",320,2017,2017-11-15,"ebook","other"
+80,"A First-Class Catastrophe: The Road to Black Monday, the Worst Day in Wall Street History","Diana B. Henriques",394,2017,2017-12-04,"audio","business"
+81,"Dear Chairman: Boardroom Battles and the Rise of Shareholder Activism”,“Jeff Gramm”,325,2016,2017-12-23,”ebook”,“business”
+82,"Joni: An Unforgettable Story”,“Joni Eareckson Tada”,205,2010,”ebook”,”biography”
+83,"Janesville: An American Story”,“Amy Goldstein”,369,2017,2017-12-31,”ebook”,”other” 
 
